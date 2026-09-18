@@ -93,7 +93,7 @@ if num := v.Export().(int64); num != 4 {
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/107/2688455.png' style="max-width:80%; max-height=80%;"></img></p>
 
-18、[newsnow](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/ourongxing/newsnow)：Fully Open-Source Real-Time News Platform. This is a high-aesthetic real-time news and hotlist website that focuses more on real-time news compared to traditional hotlist products. It is completely open-source for both frontend and backend, easy to deploy, and can be easily hosted on platforms like Cloudflare Pages or Vercel.Shared by [@Ou](https://hellogithub.com/en/user/SMJiFwlsKCkWf89)
+18、[newsnow](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/newsnext/newsnow)：Fully Open-Source Real-Time News Platform. This is a high-aesthetic real-time news and hotlist website that focuses more on real-time news compared to traditional hotlist products. It is completely open-source for both frontend and backend, easy to deploy, and can be easily hosted on platforms like Cloudflare Pages or Vercel.Shared by [@Ou](https://hellogithub.com/en/user/SMJiFwlsKCkWf89)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/107/861790708.png' style="max-width:80%; max-height=80%;"></img></p>
 

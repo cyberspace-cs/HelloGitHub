@@ -259,7 +259,7 @@ output = compiled_model({0: example.numpy()})
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/102/628600520.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-38、[omakub](https://hellogithub.com/periodical/statistics/click?target=https://github.com/basecamp/omakub)：精美的 Ubuntu 配置方案。该项目可以将全新的 Ubuntu 24.04 系统配置成美观、功能齐全、适合 Web 开发的系统。只需简单的一条命令，即可拥有配置好的 GNOME 桌面环境、窗口管理工具、Alacritty 终端、Neovim 和 VSCode 编辑器等应用，还会将 Chrome 设置成默认浏览器。
+38、[omakub](https://hellogithub.com/periodical/statistics/click?target=https://github.com/omacom/omakub)：精美的 Ubuntu 配置方案。该项目可以将全新的 Ubuntu 24.04 系统配置成美观、功能齐全、适合 Web 开发的系统。只需简单的一条命令，即可拥有配置好的 GNOME 桌面环境、窗口管理工具、Alacritty 终端、Neovim 和 VSCode 编辑器等应用，还会将 Chrome 设置成默认浏览器。
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/102/805916722.png' style="max-width:80%; max-height=80%;"></img></p>
 

@@ -100,7 +100,7 @@ if num := v.Export().(int64); num != 4 {
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/107/2688455.png' style="max-width:80%; max-height=80%;"></img></p>
 
-18、[newsnow](https://hellogithub.com/periodical/statistics/click?target=https://github.com/ourongxing/newsnow)：全开源的实时资讯平台。这是一款高颜值的实时新闻与热榜网站，相比传统热榜产品更加注重实时新闻。它前后端完全开源、部署简单，可轻松托管到 Cloudflare Pages 或 Vercel 等平台。来自 [@Ou](https://hellogithub.com/user/SMJiFwlsKCkWf89) 的分享
+18、[newsnow](https://hellogithub.com/periodical/statistics/click?target=https://github.com/newsnext/newsnow)：全开源的实时资讯平台。这是一款高颜值的实时新闻与热榜网站，相比传统热榜产品更加注重实时新闻。它前后端完全开源、部署简单，可轻松托管到 Cloudflare Pages 或 Vercel 等平台。来自 [@Ou](https://hellogithub.com/user/SMJiFwlsKCkWf89) 的分享
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/107/861790708.png' style="max-width:80%; max-height=80%;"></img></p>
 
